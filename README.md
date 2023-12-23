@@ -27,11 +27,7 @@ The dataset is stored in the `qooka_dataset.csv` file.
 
 - `recipe_title`: The title of the recipe that the current turn is referring to, e.g., "Thai Spicy Duck Salad Recipe"
 
-- `sentence`: The surrounding sentence in a recipe that the current query is referring to, "You need to add 200g of sugar."
-
 - `step_number`: The step number the query is referring to, e.g., 1
-
-- `step_text`: The step text the query is referring to, e.g., "You need to add 200g of sugar. Make sure to stir the mixture well...."
 
 - `conv_id`: The conversation ID the query is referring to, e.g., 10
 
