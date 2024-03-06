@@ -1,4 +1,4 @@
-# QookA
+# QookA <img src="assets/qooka_logo.png" alt="QookA logo" width="40"/>
 This repository accompanies the paper **QookA: A Cooking Question Answering Dataset**.
 
 ## Where is the dataset?
