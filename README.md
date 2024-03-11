@@ -34,5 +34,23 @@ The dataset is stored in the `qooka_dataset.csv` file.
 - `turn_id`: The turn ID within the current conversation, e.g., 4
 
 ## Citation
-tbd.
+```bibtex
+@inproceedings{10.1145/3627508.3638311,
+author = {Frummet, Alexander and Elsweiler, David},
+title = {QookA: A Cooking Question Answering Dataset},
+year = {2024},
+isbn = {9798400704345},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3627508.3638311},
+doi = {10.1145/3627508.3638311},
+abstract = {Conversational agents have become increasingly integrated into our daily lives, including assisting with cooking-related tasks. To address these issues and supplement other datasets, we introduce QookA—a unique dataset featuring spoken queries, associated information needs, and answers rooted in cooking recipes. QookA overcomes shortcomings in existing datasets, laying the foundation for more effective conversational agents tailored to cooking tasks. This paper outlines the dataset construction process, analyzes the data, and explores research applications, providing a valuable resource to enhance conversational agents in the cooking domain.},
+booktitle = {Proceedings of the 2024 ACM SIGIR Conference on Human Information Interaction and Retrieval},
+pages = {406–410},
+numpages = {5},
+keywords = {conversational search, cooking, question answering},
+location = {<conf-loc>, <city>Sheffield</city>, <country>United Kingdom</country>, </conf-loc>},
+series = {CHIIR '24}
+}
+```
 
