@@ -154,3 +154,5 @@ cython_debug/
 # Do not Push notebook
 .ipynb_checkpoints
 *.ipynb
+
+*.DS_Store
