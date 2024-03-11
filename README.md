@@ -34,6 +34,7 @@ The dataset is stored in the `qooka_dataset.csv` file.
 - `turn_id`: The turn ID within the current conversation, e.g., 4
 
 ## Citation
+When using this dataset, please have look at [our paper](https://dl.acm.org/doi/10.1145/3627508.3638311) and cite us :-)
 ```bibtex
 @inproceedings{frummet2024qooka,
 author = {Frummet, Alexander and Elsweiler, David},
