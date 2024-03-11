@@ -35,7 +35,7 @@ The dataset is stored in the `qooka_dataset.csv` file.
 
 ## Citation
 ```bibtex
-@inproceedings{10.1145/3627508.3638311,
+@inproceedings{frummet2024qooka,
 author = {Frummet, Alexander and Elsweiler, David},
 title = {QookA: A Cooking Question Answering Dataset},
 year = {2024},
