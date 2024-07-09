@@ -37,21 +37,19 @@ The dataset is stored in the `qooka_dataset.csv` file.
 When using this dataset, please have look at [our paper](https://dl.acm.org/doi/10.1145/3627508.3638311) and cite us :-)
 ```bibtex
 @inproceedings{frummet2024qooka,
-author = {Frummet, Alexander and Elsweiler, David},
-title = {QookA: A Cooking Question Answering Dataset},
-year = {2024},
-isbn = {9798400704345},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3627508.3638311},
-doi = {10.1145/3627508.3638311},
-abstract = {Conversational agents have become increasingly integrated into our daily lives, including assisting with cooking-related tasks. To address these issues and supplement other datasets, we introduce QookA—a unique dataset featuring spoken queries, associated information needs, and answers rooted in cooking recipes. QookA overcomes shortcomings in existing datasets, laying the foundation for more effective conversational agents tailored to cooking tasks. This paper outlines the dataset construction process, analyzes the data, and explores research applications, providing a valuable resource to enhance conversational agents in the cooking domain.},
-booktitle = {Proceedings of the 2024 ACM SIGIR Conference on Human Information Interaction and Retrieval},
-pages = {406–410},
-numpages = {5},
-keywords = {conversational search, cooking, question answering},
-location = {<conf-loc>, <city>Sheffield</city>, <country>United Kingdom</country>, </conf-loc>},
-series = {CHIIR '24}
+  author       = {Alexander Frummet and
+                  David Elsweiler},
+  editor       = {Paul D. Clough and
+                  Morgan Harvey and
+                  Frank Hopfgartner},
+  title        = {{QookA: {A} Cooking Question Answering Dataset}},
+  booktitle    = {{Proceedings of the 2024 {ACM} {SIGIR} Conference on Human Information
+                  Interaction and Retrieval, {CHIIR} 2024, Sheffield, United Kingdom,
+                  March 10-14, 2024}},
+  pages        = {406--410},
+  publisher    = {{ACM}},
+  year         = {2024},
+  url          = {https://doi.org/10.1145/3627508.3638311}
 }
 ```
 
