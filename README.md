@@ -2,7 +2,7 @@
 This repository accompanies the paper **QookA: A Cooking Question Answering Dataset**.
 
 ## Where is the dataset?
-The dataset is stored in the `qooka_dataset.csv` file.
+The dataset published in the paperis stored in the `qooka_dataset.csv` file. Additionally, there is a second version of the dataset (**QookA-v2**) which includes GPT-4 generated, synthetic queries. QookA-v2 is stored in the `qooka_dataset_v2.csv` file. 
 
 ## What do the columns mean?
 - `global_turn_id`: A unique identifier for each turn, combining the conversation ID and the turn ID in the format <conv_id>_<turn_id>, e.g., 10_4 
